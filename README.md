@@ -1,4 +1,4 @@
 BootcampFinalProject
 
 AllEndPoints
-![Endpoints](https://user-images.githubusercontent.com/62098893/174235234-e9f47198-4219-4c28-8414-c2259ff722fb.PNG)
+![Endpoints](https://user-images.githubusercontent.com/62098893/174235415-37e54b75-a27f-407c-9cf3-ffbcc31714b7.PNG)
